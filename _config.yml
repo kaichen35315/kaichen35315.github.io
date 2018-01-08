@@ -1,10 +1,10 @@
 # Site settings
 title: 唯爱
-SEOTitle: 陈凯的博客 | BY Blog
+SEOTitle: 陈凯的博客 | KX Blog
 header-img: img/post-bg-desk.jpg
 email: kaichen35315@gmail.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 陈凯的博客, chenkai, 陈凯, iOS, Apple, iPhone"
+keyword: "KX, KX Blog, 陈凯的博客, chenkai, 陈凯, iOS, Apple, iPhone,JAVA"
 url: "http://qiubaiying.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/kaichen35315/kaichen35315.github.io.git" # you code repository
